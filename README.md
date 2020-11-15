@@ -11,6 +11,7 @@ Para que a aplicação funcione, basta dar um **npm init** para que as dependên
 2. bodyParser
 3. Express-handlebars
 4. Sequelize
+5. Mysql2
 
 ## Objetivo
 Aperfeiçoar o conhecimento inicial em NodeJS para futuramente construir aplicações robustas buscando entregar a melhor performance e experiência para o usuário.
