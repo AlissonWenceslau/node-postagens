@@ -4,7 +4,7 @@ Este é um sistema bem simples de fazer postagens. O projeto foi desenvolvido em
 
 ## Instalação
 
-Para que a aplicação funcione, basta dar um **npm init** para que as dependências do projeto sejam instaladas, crie um banco de dados chamado **postapp** e rode a função **Post.sync({force:true})** que se encontra dentro da pasta **models/Posts.js**
+Para que a aplicação funcione, basta dar um **npm install** para que as dependências do projeto sejam instaladas, crie um banco de dados chamado **postapp** e rode a função **Post.sync({force:true})** que se encontra dentro da pasta **models/Posts.js**
 
 ## Dependências empregadas
 1. Express
