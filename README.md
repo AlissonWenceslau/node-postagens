@@ -18,7 +18,7 @@ Aperfeiçoar o conhecimento inicial em NodeJS para futuramente construir aplica�
 
 ## Imagens
 Página inicial
-![alt-text-1](/img/pagina_inicial.png)
+![alt-text-1](./img/pagina_inicial.png)
 Página de sucesso após cadastro
 ![](/img/pagina_sucesso.PNG)
 Página de consulta
