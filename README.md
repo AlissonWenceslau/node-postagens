@@ -18,11 +18,11 @@ Aperfeiçoar o conhecimento inicial em NodeJS para futuramente construir aplica�
 
 ## Imagens
 Página inicial
-![](/img/pagina_inicial.png)
+![](/img/pagina_inicial.PNG)
 Página de sucesso após cadastro
-![](/img/pagina_sucesso.png)
+![](/img/pagina_sucesso.PNG)
 Página de consulta
-![](/img/pagina_consulta.png)
+![](/img/pagina_consulta.PNG)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
