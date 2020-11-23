@@ -18,11 +18,13 @@ Aperfeiçoar o conhecimento inicial em NodeJS para futuramente construir aplica�
 
 ## Imagens
 Página inicial
-![alt-text-1](./img/pagina_inicial.png)
-Página de sucesso após cadastro
-![](/img/pagina_sucesso.PNG)
+![pagina_inicial](https://user-images.githubusercontent.com/74499967/99922201-ff8a2380-2d0d-11eb-96df-ff1d4bc86f36.PNG)
+
+Página de sucesso
+![pagina_sucesso](https://user-images.githubusercontent.com/74499967/99922218-23e60000-2d0e-11eb-99a9-363f8302bd2a.PNG)
+
 Página de consulta
-![](/img/pagina_consulta.PNG)
+![pagina_consulta](https://user-images.githubusercontent.com/74499967/99922270-8212e300-2d0e-11eb-8546-4c0ec03a3242.PNG)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
