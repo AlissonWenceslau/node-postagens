@@ -16,15 +16,21 @@ Para que a aplicação funcione, basta entrar na pasta **app** e dar o comando *
 ## Objetivo
 Aperfeiçoar o conhecimento inicial em NodeJS para futuramente construir aplicações robustas buscando entregar a melhor performance e experiência para o usuário.
 
-## Imagens
-Página inicial
+## Telas
+
 ![pagina_inicial](https://user-images.githubusercontent.com/74499967/99922201-ff8a2380-2d0d-11eb-96df-ff1d4bc86f36.PNG)
 
-Página de sucesso
+<hr>
+
+![pagina_cadastro](https://user-images.githubusercontent.com/74499967/100032099-eba9f480-2dd5-11eb-9aa1-c7c14797f2d8.PNG)
+
+<hr>
+
 ![pagina_sucesso](https://user-images.githubusercontent.com/74499967/99922218-23e60000-2d0e-11eb-99a9-363f8302bd2a.PNG)
 
-Página de consulta
-![pagina_consulta](https://user-images.githubusercontent.com/74499967/99922270-8212e300-2d0e-11eb-8546-4c0ec03a3242.PNG)
+<hr>
+
+![pagina_consulta](https://user-images.githubusercontent.com/74499967/100032305-7559c200-2dd6-11eb-80f6-956c43d32b09.PNG)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
